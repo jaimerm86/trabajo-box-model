@@ -1,0 +1,81 @@
+
+ .chico{
+    display: flex;
+    width: 399px;
+    height: 40px;
+    padding: auto;
+    border: 5px grey solid;
+    background: lightblue;
+}
+
+
+.grande{
+    display:flex;
+    width: 399px;
+    height: 55px;
+    padding: auto;
+    border: 5px gray solid;
+    background-color: lightblue;
+
+}
+
+.mediano{
+    display: flex;
+    width: 226px;
+    height: 50px;
+    padding: auto;
+    border: 5px gray solid;
+    background-color: lightblue;
+    position:absolute;
+
+}
+
+.container{
+    display: flex; 
+    width: 402px;
+    height: 60px;
+    padding: auto;
+    border: 4px gray solid;;
+    background-color: lightblue;
+    position: relative;
+    
+}
+
+.margin-derecho{
+    display: flex;
+    width: 230px;
+    height: 55px;
+    padding:auto;
+    border:5px gray solid;
+    background-color:aliceblue ;
+    position: absolute;
+
+}
+
+.margin-abajo{
+    display: flex;
+    width: 225px;
+    height: 54px;
+    padding: auto;
+    border-width: 5px gray solid;
+    background: lightblue;
+    
+
+}
+
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+    
